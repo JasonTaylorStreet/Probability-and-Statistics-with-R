@@ -1,0 +1,195 @@
+Country2016,Life,MortalityRate,Underweight,Overweight,BMI,Alcohol,GDP,Population,GDPperCapita,immunization,AirPollutionChildDeaths,PerWarnCigarettes,MandateHWCigarettes,PlainPackageCigarettes,AdRestrictionsTVBeer,AdRestrictionsTVSpirits,AdRestrictionsTVWine
+Afghanistan,62.7,245,16.4,23,23.4,0.02,19543976895,36296113,538,78,5896,50,Yes,No,ban,ban,ban
+Albania,76.4,96,1.3,57.7,26.7,4.67,13038538300,2884169,4521,99,10,50,Yes,No,partial restriction,partial restriction,partial restriction
+Algeria,76.4,95,3.6,62,25.5,0.6,1.68E+11,41389189,4048,99,220,15,Yes,No,ban,ban,ban
+Andorra,,,0.8,63.7,26.7,9.94,3012914131,77001,39128,,,0,No,No,no restriction,no restriction,no restriction
+Angola,62.6,238,13.7,27.5,23.3,5.38,1.22E+11,29816766,4096,40,6724,0,No,No,no restriction,no restriction,no restriction
+Antigua and Barbuda,75,120,4.7,48,26.7,7.55,1510084751,95426,15825,,0,0,No,No,no restriction,no restriction,no restriction
+Argentina,76.9,111,0.9,62.7,27.7,8.31,6.37E+11,43937140,14508,92,11,50,Yes,No,partial restriction,partial restriction,partial restriction
+Armenia,74.8,116,2.6,54.4,26.3,3.82,11536590636,2944791,3918,99,2,50,Yes,No,ban,ban,ban
+Australia,82.9,61,1.1,64.5,27.1,9.79,1.32E+12,24584620,53831,,0,82.5,Yes,Yes,partial restriction,partial restriction,partial restriction
+Austria,81.9,62,1.6,54.3,25.6,11.7,4.17E+11,8819901,47261,0,0,65,Yes,No,partial restriction,ban,partial restriction
+Azerbaijan,73.1,118,2.3,53.6,27.1,3.05,40747792238,9845320,4139,98,36,30,Yes,No,ban,ban,ban
+Bahamas,75.7,159,2.4,64.4,28,8.69,12162100000,381755,31858,,0,0,Yes,No,no restriction,ban,no restriction
+Bahrain,79.1,57,2.9,65.8,24.8,1.39,35432686170,1494076,23715,,0,50,Yes,No,no data,no data,no data
+Bangladesh,72.7,130,21,20,21.7,0,2.50E+11,159685424,1564,99,8656,50,Yes,No,ban,ban,ban
+Barbados,75.6,100,3.1,52.4,27.8,9.27,4673500000,286232,16328,,0,0,No,No,no restriction,no restriction,no restriction
+Belarus,74.2,161,1.3,59.4,26.6,9.7,54456465473,9450231,5762,98,1,50,Yes,No,partial restriction,ban,ban
+Belgium,81.2,72,0.9,59.5,26.1,9.42,4.95E+11,11419748,43325,,0,65,Yes,No,partial restriction,partial restriction,partial restriction
+Belize,70.5,179,3.6,54.8,29.1,6.11,1862614800,375769,4957,94,1,0,Yes,No,no restriction,no restriction,no restriction
+Benin,61.1,242,9.9,29.5,23.5,1.46,9246696924,11175198,827,88,3140,30,Yes,No,no restriction,no restriction,no restriction
+Bhutan,70.6,207,10.8,27.1,23.9,0.02,2528007911,745563,3391,99,25,0,Yes,No,ban,ban,ban
+Bolivia (Plurinational State of),71.5,182,1.7,56.1,26.6,3.41,,,,96,256,50,Yes,No,no data,no data,no data
+Bosnia and Herzegovina,77.3,92,1.4,53.3,25.8,4.81,18054854789,3351525,5387,97,3,0,No,No,partial restriction,partial restriction,partial restriction
+Botswana,66.1,249,9.7,43.4,24.3,5.14,17406565823,2205080,7894,98,66,0,No,No,ban,ban,ban
+Brazil,75.1,143,2.7,56.5,26.6,6.33,2.05E+12,207833823,9881,90,211,65,Yes,No,voluntary/self-restricted,partial restriction,voluntary/self-restricted
+Brunei Darussalam,76.4,98,5.8,41.2,27.2,0.66,,,,99,0,75,Yes,No,no data,no data,no data
+Bulgaria,74.8,135,0.9,61.7,26.4,11.48,58220973783,7102444,8197,96,4,65,Yes,No,partial restriction,partial restriction,partial restriction
+Burkina Faso,60.3,255,12,23.2,22.2,7.11,12322864245,19193234,642,98,4019,60,Yes,No,partial restriction,ban,ban
+Burundi,60.1,290,12.9,22.2,21.7,3.89,3172416146,10827019,293,93,2787,0,No,No,no restriction,no restriction,no restriction
+Cabo Verde,73.2,122,8.2,34.8,24.5,4.11,1772706451,537498,3298,96,8,0,Yes,No,partial restriction,partial restriction,partial restriction
+Cambodia,69.4,170,13.6,21.7,22.2,3.5,22158209503,16009409,1384,99,937,55,Yes,No,ban,ban,ban
+Cameroon,58.1,341,7.3,33.6,24.3,4.15,34922782311,24566073,1422,84,5143,50,Yes,No,no restriction,no restriction,no restriction
+Canada,82.8,63,1.1,64.1,26.9,8.1,1.65E+12,36732095,44841,,0,75,Yes,No,partial restriction,partial restriction,partial restriction
+Central African Republic,53,412,14.9,26.2,22.9,0.87,1949411659,4596023,424,74,1889,0,Yes,No,voluntary/self-restricted,voluntary/self-restricted,voluntary/self-restricted
+Chad,54.3,360,13.7,23.1,21.9,0.5,9871247732,15016753,657,59,10285,70,Yes,No,ban,ban,ban
+Chile,79.5,87,0.7,63.1,28,7.78,2.77E+11,18470439,15001,97,6,50,Yes,No,no restriction,no restriction,no restriction
+China,76.4,80,4.9,32.3,23.8,5.63,1.22E+13,1421021791,8612,99,6973,35,Yes,No,partial restriction,partial restriction,partial restriction
+Colombia,75.1,137,2.3,59,26.2,4.54,3.14E+11,48909839,6429,88,107,30,Yes,No,partial restriction,partial restriction,partial restriction
+Comoros,63.9,225,10.3,27.1,24.5,0.23,1068124330,813892,1312,94,183,40,Yes,No,ban,ban,ban
+Congo,64.3,261,13.2,30.9,23.2,5.86,8701334800,5110695,1703,80,652,30,Yes,No,no restriction,no restriction,no restriction
+Cook Islands,,,0.3,84.7,32.9,,,,,99,,50,Yes,No,no restriction,no restriction,no restriction
+Costa Rica,79.6,97,1.8,61.6,27.3,3.77,57285984448,4949954,11573,89,2,50,Yes,No,partial restriction,partial restriction,partial restriction
+Côte d'Ivoire,54.6,398,8.3,31.6,23.8,1.53,,,,95,6761,0,Yes,No,no restriction,no restriction,no restriction
+Croatia,78.3,88,0.9,59.6,27.4,10.39,55213087271,4182857,13200,99,1,35,Yes,No,no restriction,ban,ban
+Cuba,79,92,4.1,58.5,25.6,4.35,96851000000,11339254,8541,99,14,30,Yes,No,no data,no data,no data
+Cyprus,80.7,55,1.1,59.1,26.8,9.59,22054225828,1179678,18695,,0,39,Yes,No,partial restriction,partial restriction,partial restriction
+Czechia,79.2,81,0.8,62.3,27.1,12.93,,,,0,1,65,Yes,No,partial restriction,partial restriction,partial restriction
+Democratic People's Republic of Korea,71.9,132,6.4,32.4,24.1,3.3,,,,97,558,0,Yes,No,no data,no data,no data
+Democratic Republic of the Congo,60.5,256,16,25.3,22,0.61,,,,73,26836,30,Yes,No,partial restriction,no restriction,no restriction
+Denmark,81.2,65,1.7,55.4,25.3,9.51,3.30E+11,5732274,57545,,0,65,Yes,No,partial restriction,partial restriction,partial restriction
+Djibouti,63.8,245,8.3,38.6,24,0.33,,,,90,100,50,Yes,No,ban,ban,ban
+Dominica,,,2.9,60.3,27,9.88,496727000,71458,6951,98,,0,No,No,no restriction,no restriction,no restriction
+Dominican Republic,73.5,160,3.3,61.2,26.5,5.55,75931656815,10513104,7223,99,81,0,Yes,No,no restriction,no restriction,no restriction
+Ecuador,76.5,114,1.3,56,27.3,3.34,1.04E+11,16785361,6214,84,46,60,Yes,No,ban,ban,ban
+Egypt,70.5,165,1.5,63.5,29.6,0.15,2.35E+11,96442591,2441,96,171,50,Yes,No,ban,ban,ban
+El Salvador,73.7,177,2.2,59.9,27.7,2.64,24805439600,6388126,3883,87,30,50,Yes,No,partial restriction,partial restriction,partial restriction
+Equatorial Guinea,59.5,305,13.3,26.7,24,7.26,12293579173,1262002,9741,85,242,0,No,No,partial restriction,partial restriction,partial restriction
+Eritrea,65,252,17.1,22,20.7,0.68,,,,97,736,30,Yes,No,no restriction,no restriction,no restriction
+Estonia,77.8,119,1.2,55.8,26.4,15.95,26611651599,1319390,20170,95,0,65,Yes,No,ban,ban,ban
+Eswatini,57.7,393,8.1,38.4,26.8,7.5,4433664364,1124805,3942,97,163,50,Yes,No,no restriction,no restriction,no restriction
+Ethiopia,65.5,219,16,20.9,20.6,0.86,80561496134,106399924,757,72,16852,30,Yes,No,partial restriction,partial restriction,partial restriction
+Fiji,69.9,186,1.9,63.8,27.7,2.41,5061202767,877459,5768,99,20,60,Yes,No,no data,no data,no data
+Finland,81.4,70,0.8,57.9,25.9,8.44,2.52E+11,5511371,45778,0,0,65,Yes,No,partial restriction,partial restriction,partial restriction
+France,82.9,71,1.6,59.5,25,11.74,2.58E+12,64842509,39827,0,0,65,Yes,Yes,ban,ban,ban
+Gabon,66.4,221,9.3,40.2,25.2,7.5,15013950984,2064823,7271,94,76,62.5,Yes,No,no restriction,no restriction,no restriction
+Gambia,61.9,262,10.4,31.9,24,2.79,1489464788,2213889,673,98,404,30,Yes,No,ban,ban,ban
+Georgia,72.6,160,2.4,54.2,27.6,7.51,15081338092,4008716,3762,98,8,30,Yes,No,partial restriction,ban,partial restriction
+Germany,81,69,0.8,56.8,26.6,10.93,3.69E+12,82658409,44680,,0,65,Yes,No,partial restriction,partial restriction,partial restriction
+Ghana,63.4,241,8.9,32,23.9,1.62,58996776238,29121465,2026,94,2992,50,Yes,No,partial restriction,partial restriction,partial restriction
+Greece,81.2,66,0.5,62.3,27.1,6.37,2.03E+11,10569450,19214,0,1,65,Yes,No,voluntary/self-restricted,voluntary/self-restricted,voluntary/self-restricted
+Grenada,73.4,140,4.1,51.4,27,8.87,1126882296,110874,10164,,0,0,No,No,no restriction,no restriction,no restriction
+Guatemala,73.2,162,2.2,55.9,26.6,1.59,75620095538,16914970,4471,87,777,13,Yes,No,no restriction,no restriction,no restriction
+Guinea,59.8,262,11.1,26.6,22.9,0.35,10472514515,12067519,868,73,3732,30,Yes,No,ban,ban,ban
+Guinea-Bissau,59.8,269,9.9,29.9,23.4,3.1,1346841897,1828145,737,91,568,0,No,No,no restriction,no restriction,no restriction
+Guyana,66.2,264,5,49.4,26.4,5.88,3621046005,775222,4671,95,10,0,Yes,No,no restriction,no restriction,no restriction
+Haiti,63.5,243,4.6,54.9,25.3,2.72,8408150518,10982366,766,83,2076,0,No,No,no data,no data,no data
+Honduras,75.2,145,2.9,55.8,26.8,2.54,22978532897,9429013,2437,94,158,50,Yes,No,partial restriction,partial restriction,partial restriction
+Hungary,76,126,1.4,61.6,27.3,11.28,1.40E+11,9729823,14364,99,0,65,Yes,Yes,partial restriction,partial restriction,partial restriction
+Iceland,82.4,55,1.1,59.1,26.2,7.5,24488467010,334393,73233,,0,35,Yes,No,ban,ban,ban
+India,68.8,178,23.3,19.7,21.8,2.97,2.65E+12,1338676785,1980,89,66891,85,Yes,No,voluntary/self-restricted,voluntary/self-restricted,voluntary/self-restricted
+Indonesia,69.3,176,12.4,28.2,23.1,0.08,1.02E+12,264650963,3837,90,6862,40,Yes,No,ban,ban,ban
+Iran (Islamic Republic of),75.7,80,3.7,61.6,26.1,0.02,,,,99,47,50,Yes,No,ban,ban,ban
+Iraq,69.8,174,2.7,64.6,28.8,0.16,1.92E+11,37552781,5114,90,162,30,Yes,No,ban,ban,ban
+Ireland,81.5,62,0.8,60.6,27.5,11.22,3.31E+11,4753279,69727,18,0,65,Yes,No,partial restriction,partial restriction,partial restriction
+Israel,82.3,58,0.9,64.3,27.3,2.69,3.53E+11,8243848,42852,0,0,30,Yes,No,partial restriction,partial restriction,partial restriction
+Italy,82.8,54,0.8,58.5,25.6,7.1,1.94E+12,60673701,32038,,0,65,Yes,No,partial restriction,partial restriction,partial restriction
+Jamaica,76,131,4.1,55.5,27.8,3.38,14781107822,2920848,5061,96,3,60,Yes,No,partial restriction,partial restriction,partial restriction
+Japan,84.2,51,7,27.2,22.7,6.82,4.87E+12,127502725,38214,98,0,30,Yes,No,voluntary/self-restricted,voluntary/self-restricted,voluntary/self-restricted
+Jordan,74.3,111,1.4,69.6,29,0.32,40068308451,9785843,4095,99,4,40,Yes,No,ban,ban,ban
+Kazakhstan,71.1,181,2.8,53.6,26.4,3.55,1.63E+11,18080019,9009,95,30,50,Yes,No,ban,ban,ban
+Kenya,66.7,219,11.9,25.5,23.3,1.63,79263075749,50221142,1578,99,5537,40,Yes,No,partial restriction,partial restriction,partial restriction
+Kiribati,66.1,197,0.8,78.7,30.1,0.38,185572502,114158,1626,79,16,30,Yes,No,no restriction,no restriction,no restriction
+Kuwait,74.8,79,1,73.4,29.6,0.01,1.20E+11,4056099,29616,96,0,50,Yes,No,no data,no data,no data
+Kyrgyzstan,71.4,162,3.4,48.3,26.6,4.57,7564738836,6189733,1222,97,123,50,Yes,No,no data,no data,no data
+Lao People's Democratic Republic,65.8,193,11.6,25.4,22.9,7.11,,,,78,989,75,Yes,No,ban,ban,ban
+Latvia,75,154,1.3,57.8,26.7,11.3,30463302414,1951097,15613,96,0,65,Yes,No,partial restriction,ban,partial restriction
+Lebanon,76.3,96,2,67.9,27.6,1.27,53576985687,6819373,7857,,,40,Yes,No,no restriction,no restriction,no restriction
+Lesotho,52.9,483,8.6,38.7,24.9,2.89,2578265358,2091534,1233,96,379,0,No,No,no restriction,no restriction,no restriction
+Liberia,62.9,230,8.6,30.9,24.1,3.53,3285455000,4702226,699,97,983,0,No,No,no restriction,no restriction,no restriction
+Libya,71.9,150,2,66.8,28.1,0,38107728083,6580724,5791,99,,25,Yes,No,ban,ban,ban
+Lithuania,75,155,0.8,59.6,26.4,13.39,47544459559,2845414,16709,98,0,65,Yes,No,ban,ban,ban
+Luxembourg,82.4,56,1.1,58.7,26.3,11.24,62316359824,591910,105280,,0,39,Yes,No,partial restriction,partial restriction,partial restriction
+Madagascar,66.1,216,14.6,23.9,21.3,0.89,11499803807,25570512,450,70,3680,50,Yes,No,ban,ban,ban
+Malawi,64.2,255,11.3,23.4,22.9,2,6303292264,17670196,357,86,2527,0,No,No,no restriction,no restriction,no restriction
+Malaysia,75.3,123,6.6,42.5,25.7,0.59,3.15E+11,31104646,10118,99,11,55,Yes,No,ban,ban,ban
+Maldives,78.4,53,9.4,30.6,25.5,1.12,4865546027,496402,9802,99,0,30,Yes,No,ban,ban,ban
+Mali,58,270,10.7,28.1,23,0.58,15334336144,18512430,828,82,6105,30,Yes,No,no restriction,no restriction,no restriction
+Malta,81.5,55,0.7,66.4,27.1,7.51,12518134319,437933,28585,0,0,65,Yes,No,partial restriction,partial restriction,partial restriction
+Marshall Islands,,,0.5,83.5,29.6,,204173430,58058,3517,94,,0,Yes,No,no restriction,no restriction,no restriction
+Mauritania,63.9,202,9,34.4,24.9,0,5024708656,4282570,1173,86,740,0,No,No,ban,ban,ban
+Mauritius,74.8,145,7.8,32.3,25.2,3.07,13266427697,1264499,10491,98,1,65,Yes,No,ban,ban,ban
+Mexico,76.6,127,1.4,64.9,28,4.25,1.15E+12,124777324,9224,99,544,65,Yes,No,partial restriction,partial restriction,partial restriction
+Micronesia (Federated States of),69.6,164,1.2,75.9,29.7,1.59,,,,85,6,0,No,No,no data,no data,no data
+Monaco,,,,,,,,,,0,,0,No,No,no data,no data,no data
+Mongolia,69.8,211,2.4,55.6,26.2,6.9,11433635876,3113786,3672,99,76,50,Yes,No,ban,ban,ban
+Montenegro,76.8,99,1.3,59.4,26.5,8.97,4844592067,627563,7720,85,0,35,Yes,No,partial restriction,partial restriction,partial restriction
+Morocco,76,69,3.2,60.4,26,0.4,1.10E+11,35581255,3083,99,86,0,Yes,No,ban,ban,ban
+Mozambique,60.1,336,11.5,26.4,22.8,1.25,12645508634,28649018,441,94,5926,28,Yes,No,no restriction,no restriction,no restriction
+Myanmar,66.8,195,14.2,24.8,22.6,1.6,67068745521,53382523,1256,88,4436,75,Yes,No,ban,ban,ban
+Namibia,63.7,296,10.1,40.6,24.2,4.33,13253698015,2402633,5516,89,231,55,Yes,No,no restriction,no restriction,no restriction
+Nauru,,,0.2,88.5,32.5,2.17,,,,99,,30,Yes,No,no data,no data,no data
+Nepal,70.2,151,16.8,21,22.5,0.29,24880266905,27632681,900,93,1429,90,Yes,No,no data,no data,no data
+Netherlands,81.6,59,0.9,57.8,25.6,8.3,8.31E+11,17021347,48796,,0,65,Yes,No,partial restriction,partial restriction,partial restriction
+New Zealand,82.2,66,1,65.6,28,9.02,2.04E+11,4702034,43415,,0,60,Yes,Yes,voluntary/self-restricted,voluntary/self-restricted,voluntary/self-restricted
+Nicaragua,75.5,146,2.5,58.2,27.2,3.81,13814261536,6384846,2164,98,166,50,Yes,No,no restriction,no restriction,no restriction
+Niger,59.8,250,13.4,22,21.8,0.13,8119710126,21602382,376,91,9080,50,Yes,No,ban,ban,ban
+Nigeria,55.2,352,10.5,28.9,23.2,7.82,3.76E+11,190873244,1969,64,76505,50,Yes,No,no restriction,no restriction,no restriction
+Niue,,,0.5,80,32.4,9.22,,,,92,,0,No,No,no data,no data,no data
+Norway,82.5,55,1,58.3,26.7,6.03,3.99E+11,5296326,75428,,0,35,Yes,No,ban,ban,ban
+Oman,77,96,4,62.6,26.3,0.4,70783875163,4665928,15170,99,3,50,Yes,No,ban,ban,ban
+Pakistan,66.5,159,15,28.4,23.9,0.05,3.05E+11,207906209,1467,86,25933,40,Yes,No,ban,ban,ban
+Palau,,,0.4,85.1,29.5,,289823500,17808,16275,,,0,No,No,no data,no data,no data
+Panama,78,111,2.3,58.8,26.9,6.7,62283756584,4106769,15166,99,21,50,Yes,No,partial restriction,partial restriction,partial restriction
+Papua New Guinea,65.9,224,2.6,52.9,25.6,0.8,20536314601,8438036,2434,72,978,0,Yes,No,no data,no data,no data
+Paraguay,74.2,146,2.1,53.5,26.7,5.85,39667400816,6867061,5776,94,87,40,Yes,No,partial restriction,partial restriction,partial restriction
+Peru,75.9,124,1.3,57.5,26.7,5.31,2.11E+11,31444298,6723,90,222,50,Yes,No,voluntary/self-restricted,voluntary/self-restricted,voluntary/self-restricted
+Philippines,69.3,194,12.3,27.6,23.2,4.53,3.14E+11,105172925,2982,90,4989,50,Yes,No,no restriction,no restriction,no restriction
+Poland,77.8,111,1.3,58.3,26.7,10.43,5.26E+11,37953180,13871,93,0,65,Yes,No,partial restriction,partial restriction,partial restriction
+Portugal,81.5,76,0.9,57.5,25.6,10.37,2.19E+11,10288527,21316,0,0,65,Yes,No,partial restriction,partial restriction,partial restriction
+Qatar,78.1,62,1.3,71.7,29.2,1.04,1.67E+11,2724728,61264,97,0,50,Yes,No,no data,no data,no data
+Republic of Korea,82.7,61,3.9,30.3,23.8,8.69,,,,98,1,50,Yes,No,partial restriction,partial restriction,partial restriction
+Republic of Moldova,71.5,167,1.7,51.8,27,7.22,,,,97,10,65,Yes,No,no restriction,partial restriction,partial restriction
+North Macedonia,75.9,96,1.3,58.1,26.8,3.63,11279509014,2081996,5418,99,6,35,Yes,No,partial restriction,partial restriction,partial restriction
+Romania,75.2,135,1.3,57.7,26.9,9.57,2.12E+11,19653969,10781,84,69,65,Yes,No,partial restriction,partial restriction,partial restriction
+Russian Federation,71.9,203,1.4,57.1,26.2,8.2,,,,96,22,50,Yes,No,partial restriction,ban,partial restriction
+Rwanda,68,198,9.7,25.1,22.1,7.09,9135454442,11980961,762,99,1023,30,Yes,No,no restriction,no restriction,no restriction
+Saint Kitts and Nevis,,,3.3,52.3,29.5,8.48,,,,96,,0,No,No,no restriction,no restriction,no restriction
+Saint Lucia,75.6,147,4.5,48.1,30,10.18,1737504296,180954,9602,96,0,0,No,No,voluntary/self-restricted,voluntary/self-restricted,voluntary/self-restricted
+Saint Vincent and the Grenadines,72,169,3.6,55,27.2,7.99,,,,99,0,0,No,No,no restriction,no restriction,no restriction
+Samoa,75.1,110,0.4,77.6,32.2,2.18,840927997,195352,4305,76,3,60,Yes,No,no restriction,no restriction,no restriction
+San Marino,,,,,,,1632860041,33671,48495,,,0,No,No,no restriction,no restriction,no restriction
+Sao Tome and Principe,68.7,191,7.7,35.4,24.8,5.05,,,,92,15,0,Yes,No,no restriction,no restriction,no restriction
+Saudi Arabia,74.8,89,2,69.7,28.5,0.08,6.87E+11,33101179,20747,98,21,50,Yes,No,no data,no data,no data
+Senegal,66.8,185,12,28.4,23,0.3,21070225735,15419355,1366,97,1776,70,Yes,No,ban,ban,ban
+Serbia,76.3,103,1.5,57.1,26.1,7.21,41431648801,8829628,4692,98,4,35,Yes,No,partial restriction,partial restriction,partial restriction
+Seychelles,73.3,163,6.1,36.8,26.7,20.18,1497959569,96418,15536,99,0,50,Yes,No,ban,ban,ban
+Sierra Leone,53.1,389,10.4,27.7,22.7,3.49,3775047334,7488423,504,92,2232,0,No,No,no restriction,no restriction,no restriction
+Singapore,82.9,51,5.9,31.8,23.6,1.84,3.24E+11,5708041,56746,99,0,50,Yes,No,voluntary/self-restricted,voluntary/self-restricted,voluntary/self-restricted
+Slovakia,77.4,104,1.4,56.2,26.4,9.92,95617670260,5447900,17551,0,1,65,Yes,No,partial restriction,partial restriction,partial restriction
+Slovenia,80.9,72,1.4,56.1,26.6,10.51,48769655479,2076394,23488,0,0,35,Yes,No,partial restriction,ban,partial restriction
+Solomon Islands,71.1,146,1.9,55,26.3,1.28,1303453622,636039,2049,80,42,50,Yes,No,no data,no data,no data
+Somalia,55.4,316,11.2,28.4,23.2,,,,,37,9866,0,No,No,ban,ban,ban
+South Africa,63.6,301,4.8,53.8,27.3,7.3,3.49E+11,57009756,6120,90,1383,20,Yes,No,voluntary/self-restricted,voluntary/self-restricted,voluntary/self-restricted
+South Sudan,58.6,321,,,,,,,,52,4442,0,No,No,partial restriction,partial restriction,partial restriction
+Spain,83.1,56,0.6,61.6,25.9,10.8,1.31E+12,46647428,28175,,0,35,Yes,No,partial restriction,partial restriction,partial restriction
+Sri Lanka,75.3,131,13.9,23.3,23.1,2.65,87357205923,21128032,4135,99,83,80,Yes,No,ban,ban,ban
+Sudan,65.1,224,,,,0.01,1.17E+11,40813397,2879,96,5255,15,Yes,No,ban,ban,ban
+Suriname,71.8,180,3.3,58.9,26.5,4.41,2995827901,570496,5251,,2,50,Yes,No,no restriction,no restriction,no restriction
+Sweden,82.4,52,1.1,56.4,26,7.15,5.36E+11,9904896,54075,26,0,65,Yes,No,ban,ban,ban
+Switzerland,83.3,49,1.9,54.3,25.2,9.51,6.79E+11,8455804,80296,,0,43,Yes,No,no restriction,ban,no restriction
+Syrian Arab Republic,63.8,301,2.9,61.4,28.3,0.18,,,,72,8,15,Yes,No,ban,ban,ban
+Tajikistan,70.8,123,4.3,45.3,26.1,0.86,7146449583,8880268,805,98,373,0,Yes,No,ban,partial restriction,ban
+Thailand,75.5,147,8.3,32.6,24.4,6.57,4.55E+11,69209810,6579,99,173,85,Yes,No,partial restriction,partial restriction,partial restriction
+Timor-Leste,68.6,150,16.9,21.6,21.3,0.49,2954621000,1243258,2377,86,252,50,Yes,No,no restriction,no restriction,no restriction
+Togo,60.6,265,9.9,28.1,23.6,1.26,4757776485,7698474,618,93,1569,65,Yes,No,voluntary/self-restricted,voluntary/self-restricted,voluntary/self-restricted
+Tonga,73.4,133,0.4,78.5,32.2,0.28,427659795,101998,4193,91,1,50,Yes,No,no data,no data,no data
+Trinidad and Tobago,71.8,172,3.5,46,27.6,5.91,22079017627,1384059,15952,,0,50,Yes,No,voluntary/self-restricted,voluntary/self-restricted,voluntary/self-restricted
+Tunisia,76,91,3.1,61.6,26.3,1.53,39952095561,11433443,3494,99,3,30,Yes,No,no data,no data,no data
+Turkey,76.4,104,1.4,66.8,27.9,1.38,8.52E+11,81116450,10498,96,,65,Yes,No,ban,ban,ban
+Turkmenistan,68.2,191,3.1,51.8,26.6,3.32,37926285714,5757667,6587,98,11,65,Yes,No,ban,ban,ban
+Tuvalu,,,0.4,81.9,30.8,0.96,39731317,11370,3494,98,,30,Yes,No,no data,no data,no data
+Uganda,62.5,288,11.4,22.4,22.5,12.1,25995031850,41166588,631,94,8078,65,Yes,No,voluntary/self-restricted,voluntary/self-restricted,voluntary/self-restricted
+Ukraine,72.5,180,1.2,58.4,26.6,5.74,1.12E+11,44487709,2521,75,15,50,Yes,No,partial restriction,partial restriction,partial restriction
+United Arab Emirates,77.2,74,1.7,67.8,28.4,2.17,3.83E+11,9487203,40325,99,1,50,Yes,No,ban,ban,ban
+United Kingdom of Great Britain and Northern Ireland,81.4,67,1,63.7,27.1,9.69,,,,,0,65,Yes,Yes,voluntary/self-restricted,voluntary/self-restricted,voluntary/self-restricted
+United Republic of Tanzania,63.9,261,11.3,27.7,23.2,7.41,,,,95,9720,30,Yes,No,no restriction,no restriction,no restriction
+United States of America,78.5,114,1.1,67.9,28.9,8.86,1.87E+13,323100000,57904,,0,50,Yes,No,voluntary/self-restricted,voluntary/self-restricted,voluntary/self-restricted
+Uruguay,77.1,114,1,62.9,27.4,5.53,56156972158,3436641,16341,98,0,80,Yes,No,no restriction,no restriction,no restriction
+Uzbekistan,72.3,131,3.4,48.2,26.9,1.59,49677172714,31959785,1554,99,184,40,Yes,No,ban,ban,ban
+Vanuatu,72,129,2.2,57.1,26.2,1.58,862879789,285510,3022,94,14,90,Yes,No,no restriction,no restriction,no restriction
+Venezuela (Bolivarian Republic of),74.1,157,1.5,63.4,26.7,3.99,,,,97,32,65,Yes,No,ban,ban,ban
+Viet Nam,76.3,125,17.5,18.3,21.9,3.13,,,,95,1238,50,Yes,No,no restriction,ban,no restriction
+Yemen,65.3,221,7.7,48.8,23.8,0.03,31267675216,27834819,1123,73,2463,50,Yes,No,ban,ban,ban
+Zambia,62.3,286,11.5,27.8,22.6,3.85,25868142073,16853599,1535,99,2841,0,Yes,No,no restriction,no restriction,no restriction
+Zimbabwe,61.4,334,8.6,38.2,23.8,3.46,22040902300,14236595,1548,95,2065,20,Yes,No,no restriction,no restriction,no restriction

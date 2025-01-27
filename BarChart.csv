@@ -1,0 +1,25 @@
+State,Team,Quarter,ComputersSold,Compensation
+Tennessee,Team A,1,5000,10000
+Virginia,Team B,1,4800,9000
+Virginia,Team B,3,4700,8000
+Virginia,Team A,4,4700,7000
+Virginia,Team A,1,4300,5000
+West Virginia,Team A,2,4000,5000
+West Virginia,Team B,2,4000,3000
+Virginia,Team B,4,4000,3000
+Tennessee,Team B,2,3900,3000
+West Virginia,Team A,1,3700,3000
+Virginia,Team A,3,3700,3000
+Virginia,Team A,2,3500,3000
+Tennessee,Team B,3,3100,2000
+Tennessee,Team A,2,2400,1000
+Virginia,Team B,2,1900,1000
+Tennessee,Team A,4,1800,1000
+West Virginia,Team A,3,1700,1000
+West Virginia,Team B,4,1100,1000
+West Virginia,Team B,3,800,0
+Tennessee,Team B,4,700,0
+West Virginia,Team A,4,500,0
+Tennessee,Team A,3,300,0
+Tennessee,Team B,1,0,0
+West Virginia,Team B,1,0,0
