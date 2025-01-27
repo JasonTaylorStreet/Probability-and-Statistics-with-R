@@ -1,1 +1,2 @@
 # Probability-and-Statistics-with-R
+This course introduces the R programming language to teach statistical analysis within a business environment. The course will cover basics of data management and wrangling in R, probability and probability distributions, and statistical techniques including statistical inference, hypothesis testing, analysis of variance, and an introduction to regression analysis.
